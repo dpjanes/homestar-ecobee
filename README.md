@@ -1,4 +1,4 @@
 # homestar-ecobee
-IOTDB / HomeStar Module for Ecobee
+[IOTDB](https://github.com/dpjanes/node-iotdb) Bridge for Ecobee Thermostats
 
-NOT FINISHED
+NOT FINISHED - just a stub, waiting to get hands on an Ecobee
