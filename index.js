@@ -26,3 +26,5 @@ exports.Bridge = require('./EcobeeBridge').Bridge;
 exports.bindings = [
     require('./models/Ecobee').binding,
 ];
+
+exports.module_folder = __dirname;
