@@ -55,10 +55,6 @@ var EcobeeBridge = function (initd, native) {
 
 EcobeeBridge.prototype = new iotdb.Bridge();
 
-EcobeeBridge.prototype.name = function () {
-    return "EcobeeBridge";
-};
-
 /* --- lifecycle --- */
 
 /**
